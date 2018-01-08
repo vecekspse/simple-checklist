@@ -1,1 +1,2 @@
-# simple-checklist
+# Jednoduchý interaktivní checklist
+Javascriptové eventy.
